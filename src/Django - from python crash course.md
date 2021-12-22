@@ -21,8 +21,8 @@ Smit45Waist
 - ✅ Migrating models
 
 - ✅ Create Superuser
-- Django Shell
-- write a view
+- ✅ Django Shell
+- ✅ write a view
 - MVP = Model View Pages
 - Create home page
 - templates
