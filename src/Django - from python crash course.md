@@ -23,11 +23,20 @@ Smit45Waist
 - ✅ Create Superuser
 - ✅ Django Shell
 - ✅ write a view
-- MVP = Model View Pages
-- Create home page
-- templates
-- User Accoutns
-- Adding New entries
+- ✅ MVP = Model View Pages
+- ✅ Create home page
+- ✅ templates
+- ✅ User Accounts
+- ✅ Adding New entries / Topics
+  - ✅ New topic URL
+  - ✅ New topic View
+  - ✅ New topic template
+  - ✅ Add Link to Topics template
+  - ✅ Add new_entry form
+  - ✅ Add new entry URL
+  - Add new entry View
+  - Add new entry template
+  - Link to new entry page
 - editing entries
 - setting up user accoutns
 - the login page-
