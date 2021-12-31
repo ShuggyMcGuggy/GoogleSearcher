@@ -19,5 +19,8 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path(r'', include(('learning_logs.urls', 'learning_logs'), namespace='learning_logs'))
+    path(r'users/', include('users.urls', namespace='users')),
+    path(r'', include(('learning_logs.urls', 'learning_logs'), namespace='learning_logs')),
 ]
+
+#TODO Check If I can remove the 'learning_logs' part of the path as this differs from the book

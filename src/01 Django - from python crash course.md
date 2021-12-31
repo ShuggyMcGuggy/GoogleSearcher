@@ -6,6 +6,8 @@ Log to track the progress implementing Django Learning Log
 markshury-smith
 Smit45Waist
 
+Resources
+- [export Django to static site](https://pypi.org/project/django-distill/)
 
 # emoticons
 📌 :pushpin:
@@ -34,11 +36,15 @@ Smit45Waist
   - ✅ Add Link to Topics template
   - ✅ Add new_entry form
   - ✅ Add new entry URL
-  - Add new entry View
-  - Add new entry template
-  - Link to new entry page
-- editing entries
-- setting up user accoutns
+  - ✅ Add new entry View
+  - ✅ Add new entry template
+  - ✅ Link to new entry page
+- ✅ editing entries
+  - ✅ edit entry url
+  - ✅ edit entry view
+  - ✅ edit entry template
+  - ✅ link to edit entry page
+- setting up user accounts
 - the login page-
 - logging out
 - registration pages
