@@ -3,6 +3,7 @@
 Create New Test user
 Account: test_user01
 Password: Frito(13(Skip))
+Account: test_user02
 
 ## Learning points
 ###Login services now defined as a class
@@ -28,13 +29,12 @@ correclty call the pages.
   - ✅ Create the login template 
   - ✅ Add link to login page on the base template
   - ✅ Use the login page
-- Create Logout Page
-  - Create Logout URL
-  - Create logout view
-  - add base template link to logout view
-- Create registration Page
-  - Add Registration URL to users URLS
-  - Create register view
-  - Create the register template
-  - Link to registration page in base teemplate
-  - 
+- ✅ Create Logout Page
+  - ✅ Create Logout URL
+  - ✅ Create logout view
+  - ✅ add base template link to logout view
+- ✅ Create registration Page
+  - ✅ Add Registration URL to users URLS
+  - ✅ Create register view
+  - ✅ Create the register template
+  - ✅ Link to registration page in base teemplate

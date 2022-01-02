@@ -9,18 +9,14 @@ app_name = 'users'
 
 urlpatterns = [
     # Login Page
-
-    # path(
-    #     'change-password/',
-    #     auth_views.PasswordChangeView.as_view(template_name='change-password.html'),
-    # ),
-    #
-    # path(
-    #     'login/',
-    #     auth_views.LoginView.as_view(template_name='login.html'),
-    # ),
-
     url(r'^login/$', auth_views.LoginView.as_view(), name='login'),
+
+    # Logout Page
+    url(r'^logout/$', views.logout_view, name='logout'),
+
+    # Registration page
+    url(r'^register/$', views.register, name='register'),
+
 ]
 
 
